@@ -1,0 +1,9 @@
+Angle In Radians	Average Period (s) ()Consider: what is the actual FPS? is it 240 exact? or 239.75?	Angle in Radians Uncert	Average Period Uncertainty (effective frame uncertainty / average frame * average period)
+0.349	1.353	0.02	0.004
+0.262	1.351	0.02	0.004
+0.175	1.349	0.02	0.004
+0.087	1.348	0.02	0.004
+-0.087	1.348	0.02	0.004
+-0.175	1.348	0.02	0.004
+-0.262	1.351	0.02	0.004
+-0.349	1.354	0.02	0.004
